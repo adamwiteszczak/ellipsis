@@ -1,6 +1,7 @@
 {
     "name": "whitesnake/ellipsis",
     "description": "Add an ellipsis to a string",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
